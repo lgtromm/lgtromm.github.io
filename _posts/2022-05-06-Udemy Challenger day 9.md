@@ -4,7 +4,7 @@ layout: post
 title: 내 사전에 불가능은 없다!
 subtitle: impossible n’est pas français
 description: 
-image: /img/posts/udemy9/sum.jpeg
+image: /img/posts/udemy/udemy9/sum.jpeg
 optimized_image:
 category: study
 tags:

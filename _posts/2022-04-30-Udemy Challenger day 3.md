@@ -4,7 +4,7 @@ layout: post
 title: 컴퓨터와 대화하는 방법을 배우는 중
 subtitle: python!
 description: 
-image: /img/posts/udemy3/sum.png
+image: /img/posts/udemy/udemy3/sum.png
 optimized_image:
 category: study
 tags:

@@ -4,7 +4,7 @@ layout: post
 title: 홀로 프로젝트!
 subtitle: 숫자 맞추기 게임
 description: 
-image: /img/posts/udemy12/sum.png
+image: /img/posts/udemy/udemy12/sum.png
 optimized_image:
 category: study
 tags:

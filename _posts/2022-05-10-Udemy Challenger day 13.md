@@ -4,7 +4,7 @@ layout: post
 title: Everyone gets bugs
 subtitle: Udemy Challenger 끝!
 description: 
-image: /img/posts/udemy13/sum.jpeg
+image: /img/posts/udemy/udemy13/sum.jpeg
 optimized_image:
 category: study
 tags:

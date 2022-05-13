@@ -4,7 +4,7 @@ layout: post
 title: 행운의 숫자 7
 subtitle: 라떼는 메이플스토리 레벨72면 전국구였어...
 description: 
-image: /img/posts/udemy7/sum.jpeg
+image: /img/posts/udemy/udemy7/sum.jpeg
 optimized_image:
 category: study
 tags:

@@ -4,7 +4,7 @@ layout: post
 title: Day 11
 subtitle: blackjack game
 description: 
-image: /img/posts/udemy11/sum.jpeg
+image: /img/posts/udemy/udemy11/sum.jpeg
 optimized_image:
 category: study
 tags:

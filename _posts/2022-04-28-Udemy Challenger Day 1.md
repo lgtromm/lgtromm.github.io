@@ -4,7 +4,7 @@ layout: post
 title: Hello World!
 subtitle: 코딩은 요리다
 description: 
-image: /img/posts/udemy1/sogood.png
+image: /img/posts/udemy/udemy1/sogood.png
 optimized_image:
 category: study
 tags:

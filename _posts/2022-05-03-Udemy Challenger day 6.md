@@ -4,7 +4,7 @@ layout: post
 title: 스승님을 뛰어넘었다!
 subtitle: 아주 잠시였지만......
 description: 
-image: /img/posts/udemy6/sum.jpeg
+image: /img/posts/udemy/udemy6/sum.jpeg
 optimized_image:
 category: study
 tags:

@@ -5,9 +5,25 @@
     <description>blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 May 2022 21:07:34 +0900</pubDate>
-    <lastBuildDate>Fri, 13 May 2022 21:07:34 +0900</lastBuildDate>
+    <pubDate>Sat, 14 May 2022 00:00:42 +0900</pubDate>
+    <lastBuildDate>Sat, 14 May 2022 00:00:42 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>대한민국 파이어족 시나리오</title>
+        <description>&lt;h1 style=&quot;text-align: center&quot;&gt; 파이어족 DNA &lt;/h1&gt; &lt;p&gt;건너 건너 알게 된 책. 다양한 파이어족 성공사례를 사람의 성향과 유형 별로 분류했다. 저자는 6년 동안 순자산 20억을 달성했다고 하는데, 나는 과연 어떨까? 우선 몇 가지 기억에 남는 것들부터 당장 써보자면&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4%룰&lt;/li&gt; &lt;li&gt;파이어족의 정의&lt;/li&gt; &lt;li&gt;파이어족 유형&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;4룰&quot;&gt;4%룰&lt;/h3&gt; &lt;p&gt;은퇴 자금을 지속적 수익을 내는 곳에 두고(예. 주식, 채권 등), 전체 자금의 최대 4%만 일 년의 생활비로 사용한다면, 평생 돈을 벌지 않아도 된다는 이론이다.&lt;/p&gt; &lt;p&gt;한 달 생활비가 200만원인 경우&lt;/p&gt; &lt;p&gt;200만 원 X 12(12달) X 25(4% 역수 ) = 6억원&lt;/p&gt; &lt;p&gt;이면 은퇴가 가능하다는 계산&lt;/p&gt; &lt;hr /&gt; &lt;h3 id=&quot;한국과-미국의-파이어족-정의&quot;&gt;한국과 미국의 파이어족 정의&lt;/h3&gt; &lt;p&gt;한국에서 사용되는 파이어족의 의미와...</description>
+        <pubDate>Fri, 13 May 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/%EB%8C%80%ED%8C%8C%EC%8B%9C/</link>
+        <guid isPermaLink="true">http://localhost:4000/%EB%8C%80%ED%8C%8C%EC%8B%9C/</guid>
+        
+        <category>book</category>
+        
+        <category>money</category>
+        
+        <category>life</category>
+        
+        <category>book</category>
+      </item>
     
       <item>
         <title>탄탄한 기초 생겼으니 멀리 가보자</title>

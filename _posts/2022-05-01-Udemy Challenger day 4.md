@@ -4,7 +4,7 @@ layout: post
 title: 프로그래밍은 오픈북 시험
 subtitle: 그래도 프로그래밍 근육 키우려면 매일 코딩!
 description: 
-image: /img/posts/udemy4/life.jpeg
+image: /img/posts/udemy/udemy4/life.jpeg
 optimized_image:
 category: study
 tags:

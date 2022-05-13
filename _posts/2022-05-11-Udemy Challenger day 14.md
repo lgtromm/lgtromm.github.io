@@ -4,7 +4,7 @@ layout: post
 title: Higher and higher🚀
 subtitle: Higher-Lower 게임 처음부터 만들기!
 description: 
-image: /img/posts/udemy14/sum.png
+image: /img/posts/udemy/udemy14/sum.png
 optimized_image:
 category: study
 tags:

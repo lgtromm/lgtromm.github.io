@@ -4,7 +4,7 @@ layout: post
 title: Udemy Challenger에 선발되다!
 subtitle: 파이썬 부트캠프
 description: 
-image: /img/posts/udemy-challenger/udemychallenger.jpeg
+image: /img/posts/udemy/udemy-challenger/udemychallenger.jpeg
 optimized_image:
 category: python
 tags:

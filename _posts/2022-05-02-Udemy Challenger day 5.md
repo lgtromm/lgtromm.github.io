@@ -4,7 +4,7 @@ layout: post
 title: 5일차 수업
 subtitle: 느려도 멈추지는 않기
 description: 
-image: /img/posts/udemy5/lobster.jpeg
+image: /img/posts/udemy/udemy5/lobster.jpeg
 optimized_image:
 category: study
 tags:

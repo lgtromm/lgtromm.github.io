@@ -4,7 +4,7 @@ layout: post
 title: 내가 바로 상위 50%!
 subtitle: Tim Urban's Life in Weeks
 description: 
-image: /img/posts/udemy2/weeks_you.png
+image: /img/posts/udemy/udemy2/weeks_you.png
 optimized_image: 
 category: study
 tags:

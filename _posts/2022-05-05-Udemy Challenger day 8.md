@@ -4,7 +4,7 @@ layout: post
 title: caesar cipher
 subtitle: 구글에 caesar 검색하면 연관 검색어 1위는 샐러드
 description: 
-image: /img/posts/udemy8/sum.jpeg
+image: /img/posts/udemy/udemy8/sum.jpeg
 optimized_image:
 category: study
 tags:

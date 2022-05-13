@@ -4,7 +4,7 @@ layout: post
 title: 소녀공에서 연매출 6000억원 고속 성장까지
 subtitle: 웰씽킹(Wealthinking) - 부를 창조하는 생각의 뿌리
 description: 
-image: /img/posts/first-post/bookcover.jpeg
+image: /img/posts/book/first-post/bookcover.jpeg
 optimized_image:
 category: book
 tags:

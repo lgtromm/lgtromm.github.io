@@ -4,7 +4,7 @@ layout: post
 title: 그냥 print() 쓰면 되는데?
 subtitle: 다 이유가 있는 법
 description: 
-image: /img/posts/udemy10/sum.jpeg
+image: /img/posts/udemy/udemy10/sum.jpeg
 optimized_image:
 category: study
 tags:
