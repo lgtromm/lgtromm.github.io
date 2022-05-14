@@ -5,9 +5,39 @@
     <description>blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 May 2022 00:00:42 +0900</pubDate>
-    <lastBuildDate>Sat, 14 May 2022 00:00:42 +0900</lastBuildDate>
+    <pubDate>Sat, 14 May 2022 22:21:30 +0900</pubDate>
+    <lastBuildDate>Sat, 14 May 2022 22:21:30 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>replit 졸업</title>
+        <description>&lt;h1 style=&quot;text-align: center&quot;&gt;Day 15&lt;/h1&gt;
+
+&lt;p&gt;IDE(Integrated Development Environment): 통합 개발 환경.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/udemy/udemy15/ide.jpeg&quot; alt=&quot;ide&quot; /&gt;
+세상에는 여러가지 IDE가 존재한다. 그 중에 jupyter나 Visual Studio Code 처럼 유명한 IDE도 있다. 오늘 내가 설치하고 사용할 프로그램은 파이참이다. 파이참은 파이썬에 특화된 IDE다.(Spyder도 파이썬 특화 프로그램)&lt;/p&gt;
+
+&lt;p&gt;파이참을 사용하려면 그 전에 파이썬을 설치해야 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;최신 파이썬3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;위의 링크를 타고 들어가면&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 May 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Udemy-IM1/</link>
+        <guid isPermaLink="true">http://localhost:4000/Udemy-IM1/</guid>
+        
+        <category>study</category>
+        
+        <category>udemy</category>
+        
+        <category>code</category>
+        
+        <category>python</category>
+        
+        <category>study</category>
+      </item>
     
       <item>
         <title>대한민국 파이어족 시나리오</title>

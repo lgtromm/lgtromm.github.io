@@ -187,6 +187,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/Udemy-IM1/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-05-14</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/%EB%8C%80%ED%8C%8C%EC%8B%9C/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
