@@ -5,9 +5,28 @@
     <description>blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 May 2022 22:29:06 +0900</pubDate>
-    <lastBuildDate>Mon, 16 May 2022 22:29:06 +0900</lastBuildDate>
+    <pubDate>Tue, 17 May 2022 23:07:09 +0900</pubDate>
+    <lastBuildDate>Tue, 17 May 2022 23:07:09 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>결과는 20%뿐(과정 80%)</title>
+        <description>
+</description>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Udemy-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/Udemy-review/</guid>
+        
+        <category>study</category>
+        
+        <category>udemy</category>
+        
+        <category>code</category>
+        
+        <category>python</category>
+        
+        <category>study</category>
+      </item>
     
       <item>
         <title>Yes or No</title>
